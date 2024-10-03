@@ -1,34 +1,3 @@
-## Hey 👋, I'm Sebastian Borup!  
-  
-
-<a href="https://github.com/sebastianborup" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/carl-sebastian-borup" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/sebastianborup" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!  
-I'm Sebastian, an experienced Data Scientist offering custom scripts for all OS in Java, Python, Delphi & C++, as well as Telegram bot dev with payment processing & API integration. My strong background in C#/VB.NET programming combined with a PhD equips me to provide top-notch solutions including post-project support.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌍  I'm based in Helsinki  
-  
-
-- ✉️ You can contact me at vcsborup@gmail.com  
-  
 
 - 🤝 I'm open to collaborating to expand my career opportunities  
   
@@ -38,6 +7,7 @@ I'm Sebastian, an experienced Data Scientist offering custom scripts for all OS 
 
 </td><td valign="top" width="50%">
 
+<img src="https://www.canva.com/design/DAGSgS58tE0/2Zoqg-6w52gGSL1weG867Q/view" align="left" height="300" width="300" />  
 
 
 </td></tr></table>  
