@@ -19,7 +19,7 @@
 
 
 ### Glad to see you here!  
-I'm Sebastian, an experienced Data Scientist offering custom scripts for all OS in Java, Python, Delphi & C++, as well as Telegram bot dev with payment processing & API integration. My strong background in C#/VB.NET programming combined with a PhD equips me to provide top-notch solutions including post-project support.  
+I'm Sebastian, an experienced Data Scientist offering custom scripts for all OS in Java, Python, Delphi & C++, as well as Telegram bot dev with payment processing & API integration. My strong background in C#/VB.NET programming combined equips me to provide top-notch solutions including post-project support.  
   
 
 <br/>  
