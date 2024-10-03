@@ -13,7 +13,7 @@
 <a href="https://instagram.com/sebastianborup" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+<div class="contra-hire-me-button" data-analyticsUserId="97d6445b-29e2-40d1-a338-64e7ea60a9b3" data-theme="light" data-username="viktor_carl_sebastian_b_hwdvbe50"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
 
 
 
